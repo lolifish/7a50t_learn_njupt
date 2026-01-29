@@ -1,0 +1,6 @@
+# vivado
+**/*.cache/
+**/*.sim/
+**/*.runs/
+**/*.ioplanning/
+**/*.hw/

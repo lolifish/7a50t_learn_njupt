@@ -8,3 +8,5 @@
 [0. 课程前言](https://wcnnjmx503ue.feishu.cn/wiki/DFr6wzfWeio12AkaHKlcwzvAnCe?from=from_copylink)
 
 [1. 数字电路基础](https://wcnnjmx503ue.feishu.cn/wiki/GK76wfHzOi7kockSACZc7p55nwb?from=from_copylink)
+
+[2. 组合逻辑电路](https://wcnnjmx503ue.feishu.cn/wiki/Vhz7wosTdi37PGkLTDEcbtkEnEO?from=from_copylink)
