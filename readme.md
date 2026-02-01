@@ -10,3 +10,5 @@
 [1. 数字电路基础](https://wcnnjmx503ue.feishu.cn/wiki/GK76wfHzOi7kockSACZc7p55nwb?from=from_copylink)
 
 [2. 组合逻辑电路](https://wcnnjmx503ue.feishu.cn/wiki/Vhz7wosTdi37PGkLTDEcbtkEnEO?from=from_copylink)
+
+[3. 时序逻辑电路](https://wcnnjmx503ue.feishu.cn/wiki/QBJ7wuXv8iEOcskZ5OpcWNnQnuc)
