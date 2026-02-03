@@ -12,3 +12,5 @@
 [2. 组合逻辑电路](https://wcnnjmx503ue.feishu.cn/wiki/Vhz7wosTdi37PGkLTDEcbtkEnEO?from=from_copylink)
 
 [3. 时序逻辑电路](https://wcnnjmx503ue.feishu.cn/wiki/QBJ7wuXv8iEOcskZ5OpcWNnQnuc)
+
+[3.5 FPGA编程与在电赛中的应用](https://wcnnjmx503ue.feishu.cn/wiki/TNAmwyBOEi8xg1kZZX3cKkdznGh)
