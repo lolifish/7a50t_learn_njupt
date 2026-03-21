@@ -14,3 +14,7 @@
 [3. 时序逻辑电路](https://wcnnjmx503ue.feishu.cn/wiki/QBJ7wuXv8iEOcskZ5OpcWNnQnuc)
 
 [3.5 FPGA编程与在电赛中的应用](https://wcnnjmx503ue.feishu.cn/wiki/TNAmwyBOEi8xg1kZZX3cKkdznGh)
+
+[4. ADDA和DDS]()
+
+[5. FIR滤波器](https://wcnnjmx503ue.feishu.cn/wiki/BaxvwHRf5ird6ukm9bkcn7Aznde)
