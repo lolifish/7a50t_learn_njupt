@@ -15,6 +15,9 @@
 
 [3.5 FPGA编程与在电赛中的应用](https://wcnnjmx503ue.feishu.cn/wiki/TNAmwyBOEi8xg1kZZX3cKkdznGh)
 
-[4. ADDA和DDS]()
+[4. ADDA和DDS]()  
+[绪论](https://bcnm03tf0su4.feishu.cn/wiki/ZUaIw21w9iquumkvWdqcaYv7ngg?from=from_copylink)  
+[ADDA](https://bcnm03tf0su4.feishu.cn/wiki/Um9VwwkM9iRFnekX7bdcYRDfnKd?from=from_copylink)  
+[DDS](https://bcnm03tf0su4.feishu.cn/wiki/Ux2Cwxx0hioao0kDjZ2c7KM5nvb?from=from_copylink)  
 
 [5. FIR滤波器](https://wcnnjmx503ue.feishu.cn/wiki/BaxvwHRf5ird6ukm9bkcn7Aznde)
